@@ -1,0 +1,134 @@
+{
+  "main": {
+    "name": "Hassan Hussain",
+    "occupation": "ReactJS Developer && Data Analyst",
+    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #hassanyj",
+    "image": "my-img.jpg",
+    "bio": "My name is Hassan, I'm a Full Stack ReactJS Developer and Data analyst.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "hassanyamani21@gmail.com",
+    "phone": "+91 817 951 0553",
+    "address": {
+      "street": "Redhills Street",
+      "city": "Hyderabad",
+      "state": "India",
+      "zip": "500004"
+    },
+    "website": "",
+    "resumedownload": "Hassan_Resume1.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/hasan.yamani1/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/hassan-hussain-1280971a5/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/h.a.s.a.n_yamani/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/hassanyamani21/",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Skills and Education",
+    "education": [
+      {
+        "school": "Shadan college of engineering and technology",
+        "degree": "Bachelors in Computer Science",
+        "graduated": "September 2020",
+        "description": "Graduated"
+      }
+    ],
+    "work": [
+      {
+        "company": "Alekya.ai",
+        "title": "Intern",
+        "years": "July 2020 - Present",
+        "description": "Making Full Stack websites."
+      }
+      
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Wordpress && Adobe XD",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+       "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": ""
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": ""
+        
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": ""
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": ""
+        
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        
+      },
+      {
+        
+      }
+    ]
+  }
+}
